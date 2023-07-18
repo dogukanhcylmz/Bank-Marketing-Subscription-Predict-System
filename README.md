@@ -1,13 +1,9 @@
-# Bank-Marketing-Subscription-Predict-System - Classification
+# Bank-Marketing-Subscription-Predict-System - Classification 👾
 
 In this project, me and my team mates' aim is to create a machine learning model to forecast whether or not a bank customer will subscribe for a term deposit and we deployed our project on the streamlit platform. While doing that we used “bank-additional.csv” files, which can be found at this site https://archive.ics.uci.edu/ml/datasets/Bank+Marketing. This dataset has 4119 rows and 21 columns.
 
-
-## Problem 
-Predict if the client will subscribe a term deposit.
-## System Environment
-
-**The project was developed using:**
+## ✔ Requirements
+**The project was developed with:**
  - Python
  - Jupyter Notebook
  - Streamlit
@@ -16,7 +12,7 @@ Predict if the client will subscribe a term deposit.
  - Scikit-learn
  - Matplotlib
 
-## Approach
+## ✔ Approach to problem
 - The goal is to predict whether or not a bank customer will subcribe for a term deposit  based on various features given in  a dataset of bank-additional.csv
 - Performing a classification analysis on this data set.
 - In order to accomplish this project, we perform;
@@ -31,5 +27,5 @@ Predict if the client will subscribe a term deposit.
 - And the best performing model is Gradient Boosting  with 0.94 accuracy.
 
 
-## Streamlit Cloud Address
+## ✔ Streamlit Cloud Address
 Check out: https://beyzaelaslan-bank-additional-prediction-proje-ar5a2s.streamlit.ap
