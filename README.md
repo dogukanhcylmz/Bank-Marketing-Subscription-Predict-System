@@ -12,7 +12,7 @@ In this project, me and my team mates' aim is to create a machine learning model
  - Scikit-learn
  - Matplotlib
 
-## ✔ Approach to problem
+## ✔ Approach to the problem
 - The goal is to predict whether or not a bank customer will subcribe for a term deposit  based on various features given in  a dataset of bank-additional.csv
 - Performing a classification analysis on this data set.
 - In order to accomplish this project, we perform;
